@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @er-388
+- 👋 Hi, I’m @er-388 (Erkki)
 - 🌱 I’m currently learning C#, .NET, HTML and CSS.
 
 <!---
